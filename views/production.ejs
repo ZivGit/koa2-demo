@@ -1,0 +1,33 @@
+<div class="page-production">
+    <section class="tabs">
+        <div class="tabNav" flex="main:center">
+            <% production.forEach((item, index) => { %>
+                <a class="tabNav-item<%= tabActionKey === index ? ' on' : null %>" href="/production/<%= index %>"><%= item.title %></a>
+            <% }) %>
+        </div>
+        <div class="tabBox">
+            <% production.forEach((item, index) => { %>
+                <div class="tabBox-item<%= tabActionKey === index ? ' on' : null %>">
+                    <div class="swiper-container swiper__navigation">
+                        <div class="swiper-wrapper">
+                            <% item.list.forEach((b, bIndex) => { %>
+                                <div class="swiper-slide" data-hash="slide<%= index %>_<%= bIndex %>" flex="dir:top">
+                                    <div class="slide-banner" flex="main:center cross:center" flex-box="1"><img src="<%= b.banner %>" alt=""></div>
+                                    <div class="slide-info" flex-box="0">
+                                        <dev class="slide-info__title" flex="cross:center"><%- b.title %></dev>
+                                        <div class="slide-info__logo" flex="main:center cross:center"><img src="<%= b.logo %>" alt=""></div>
+                                        <div class="slide-info__text"><%= b.text %></div>
+                                        <div flex="main:center"><a href="<%= b.link %>"><img src="<%= item.btn %>" alt=""></a></div>
+                                    </div>
+                                </div>
+                            <% }) %>
+                        </div>
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                    </div>
+                </div>
+            <% }) %>
+        </div>
+    </section>
+</div>

@@ -1,0 +1,26 @@
+<span class="page-contact_us">
+    <section class="tabs" id="js_tab">
+        <div class="tabNav" flex="main:center">
+            <% contact_us.forEach((item, index) => { %>
+                <div class="tabNav-item<%= index ? null : ' on' %>"><%= item.label %></div>
+            <% }) %>
+        </div>
+        <div class="tabBox">
+            <% contact_us.forEach((item, index) => { %>
+                <div class="tabBox-item<%= index ? null : ' on' %>">
+                    <div class="contact_us-content">
+                        <h2 class="contact_us-title"><%= item.title %></h2>
+                        <p class="contact_us-slogan"><%= item.slogan %></p>
+                        <hr>
+                        <p class="contact_us-intr"><%= item.intr %></p>
+                        <div class="businessCard-list">
+                            <% item.businessCard.forEach(b => { %>
+                                <img src="<%= b %>" alt="">
+                            <% }) %>
+                        </div>
+                    </div>
+                </div>
+            <% }) %>
+        </div>
+    </section>
+</span>

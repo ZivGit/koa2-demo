@@ -1,0 +1,1407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"default"
+			],
+			[
+				"icon",
+				"iconUrl"
+			],
+			[
+				"margin",
+				"marginBottom"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"I",
+				"Input"
+			],
+			[
+				"get",
+				"getDetail"
+			],
+			[
+				"co",
+				"componentWillUnmount"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"a",
+				"align"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"is",
+				"isEdit"
+			],
+			[
+				"b",
+				"bound"
+			],
+			[
+				"ob",
+				"observable"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"i",
+				"inherit\tcolor"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"in",
+				"initial\tcolor"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"cals",
+				"className"
+			],
+			[
+				"data",
+				"data-flex"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"page",
+				"page"
+			],
+			[
+				"margn",
+				"margin-right\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"r",
+				"react"
+			],
+			[
+				"base",
+				"baseUnitCode"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"c",
+				"contain\tbackground-size"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mag",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pic",
+				"pic_list"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"banner",
+				"banner-9"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"w",
+				"word-wrap\tproperty"
+			],
+			[
+				"t",
+				"transparent\tbackground-color"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"p",
+				"parse"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ten",
+				"text-anchor"
+			],
+			[
+				"value",
+				"values"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"T",
+				"Text"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"res",
+				"resource_code"
+			],
+			[
+				"top",
+				"topActiveKey"
+			],
+			[
+				"click",
+				"onClick"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"mode",
+				"module_name"
+			],
+			[
+				"valu",
+				"values"
+			],
+			[
+				"weui-ce",
+				"weui-cell"
+			],
+			[
+				"da",
+				"detail"
+			],
+			[
+				"textareaValue_co",
+				"textareaValue_code1"
+			],
+			[
+				"mrgin",
+				"margin-bottom"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"fo",
+				"from"
+			],
+			[
+				"g",
+				"get\tGet Elements"
+			],
+			[
+				"rou",
+				"routingId"
+			],
+			[
+				"nee",
+				"needObj"
+			],
+			[
+				"supp",
+				"supplyOfNeedObj"
+			],
+			[
+				"opt",
+				"optionObj"
+			],
+			[
+				"M",
+				"ModalForm"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"id",
+				"dsId"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"N",
+				"null"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"object",
+				"Object"
+			],
+			[
+				"e",
+				"enums"
+			],
+			[
+				"order",
+				"orderBy"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"ca",
+				"className"
+			],
+			[
+				"Prama",
+				"paramGroupName"
+			],
+			[
+				"deleteItemBy",
+				"deleteItemById"
+			],
+			[
+				"edit",
+				"editPanel"
+			],
+			[
+				"新增",
+				"新增命令组"
+			],
+			[
+				"param",
+				"paramGroupId"
+			],
+			[
+				"group",
+				"groupId"
+			],
+			[
+				"rend",
+				"render"
+			],
+			[
+				"han",
+				"handleEditPanel"
+			],
+			[
+				"tabe",
+				"table"
+			],
+			[
+				"Cla",
+				"className"
+			],
+			[
+				"su",
+				"supplyOfNeedObj"
+			],
+			[
+				"Ma",
+				"MaterialsAllotModel"
+			],
+			[
+				"option",
+				"options"
+			],
+			[
+				"onC",
+				"onClick"
+			],
+			[
+				"f",
+				"filters"
+			],
+			[
+				"cl",
+				"classNames"
+			],
+			[
+				"CLA",
+				"className"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"data-",
+				"data-template"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inde",
+				"index1"
+			],
+			[
+				"list-style",
+				"list-style-position"
+			],
+			[
+				"L",
+				"Line4"
+			],
+			[
+				"Lin",
+				"Line1"
+			],
+			[
+				"goods",
+				"goodsId"
+			],
+			[
+				"b-",
+				"b-r-1px"
+			],
+			[
+				"l",
+				"location"
+			],
+			[
+				"state",
+				"state"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"cwu",
+				"cwu\tReact: componentWillUpdate: fn(np, ns) { ... }"
+			],
+			[
+				"cdm",
+				"cdm\tReact: componentDidMount: fn() { ... }"
+			],
+			[
+				"com",
+				"componentDidMount"
+			],
+			[
+				"W",
+				"WeChat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/ziv/Documents/SWCloud/scm/mynode.js",
+			"settings":
+			{
+				"buffer_size": 3476,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/ziv/Documents/SWCloud/scm/src/scm/containers/TabsCont.jsx",
+			"settings":
+			{
+				"buffer_size": 36652,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/purchaseOrder/AddPurchaseOrder/AddPurchaseOrderCont.jsx",
+			"settings":
+			{
+				"buffer_size": 28963,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/purchaseOrder/AddPurchaseOrder/AddPurchaseOrderStore.js",
+			"settings":
+			{
+				"buffer_size": 17076,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Markdown Preview",
+				"Preferences: MarkdownLivePreview Settings"
+			],
+			[
+				"packaage",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"control",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Git:",
+				"Git: Commit"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Validate"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 282.0,
+		"history":
+		[
+			"-v Autoprefixer",
+			"Autoprefixer",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ziv/Documents/SWCloud/scm",
+		"/Users/ziv/Documents/SWCloud/scm/src",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule"
+	],
+	"file_history":
+	[
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/QuoteList/QuoteOfferDetailComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/EnquiryList/EnquiryOfferDetailComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/purchaseOrder/AddPurchaseOrder/AddPurchaseOrderCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/reducers/TabsRedu.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/TabsCont.jsx",
+		"/Users/ziv/Documents/SWCloud/ecf/src/immediateQuote/components/ImmediateQuoteComp.js",
+		"/Users/ziv/Documents/SWCloud/ecf/mynode.js",
+		"/Users/ziv/Documents/SWCloud/scm/mynode.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/EnquiryList/EnquiryDetailComp.jsx",
+		"/Users/ziv/Documents/SWCloud/pub/src/main/styles/person.scss",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/EnquiryList/EnquiryListComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/QuoteList/QuoteListComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/QuoteList/OrderList.jsx",
+		"/Users/ziv/Documents/SWCloud/pub/src/base/consts/MenusList.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/EnquiryList/stores.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/QuoteList/stores.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/base/consts/UrlsConfig.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/base/consts/Urls.js",
+		"/Users/ziv/Documents/SWCloud/scm/manifest.json",
+		"/Users/ziv/Documents/SWCloud/pub/src/setting/components/EditCompanyComp.jsx",
+		"/Users/ziv/Documents/SWCloud/pub/src/manage/components/UploadComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/EnquiryList/OrderList.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Material/comps/MaterialAddComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/EnquiryList/index.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/consts/BusinessUrls.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/consts/MeasureUrls.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Material/stores/MaterialListStore.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Material/comps/MaterialListComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Material/stores/MaterialAddStore.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/stores/MeasureStore.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/consts/ProDesignBomUrls.js",
+		"/Users/ziv/Documents/SWCloud/ecf/src/immediateQuote/store/ImmediateQuoteStore.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Material/stores/MaterialDetailStore.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Material/comps/OptionComp.jsx",
+		"/Users/ziv/Documents/SWCloud/ecf/src/base/consts/Urls.js",
+		"/Users/ziv/Documents/SWCloud/ecf/src/base/consts/UrlsConfig.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements/comps/RequirementsConfrimComp.js",
+		"/Users/ziv/Documents/SWCloud/ecf/src/base/stores/HeaderStore.js",
+		"/Users/ziv/Documents/SWCloud/ecf/src/postPurchaseQuote/store/PostPurchaseQuoteStore.js",
+		"/Users/ziv/Documents/SWCloud/ecf/src/postPurchaseQuote/components/PostPurchaseQuoteComp.js",
+		"/Users/ziv/Documents/SWCloud/pub/mynode.js",
+		"/Users/ziv/Documents/SWCloud/ecf/package.json",
+		"/Users/ziv/Documents/SWCloud/pub/src/main/components/LayoutTopComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/main/components/LayoutTopComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/styles/themes/default.scss",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/styles/base.scss",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/components/MaterialModule/AddMaterialClassifyComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/MaterialModule/MaterialClassifyCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/components/MaterialModule/MaterialClassifyComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/ProductModule/ProductMange/AddProduct/AddProductCont.jsx",
+		"/Users/ziv/Documents/SWCloud/pub/src/main/components/PersonComp.jsx",
+		"/Users/ziv/Documents/Mainiway/ascp-web-V1.0.0/src/routes/App/layout/Tabs.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/consts/returnFormItem.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/ProductModule/ProductMange/ProductCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/mobxComps/FormComp.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/main/containers/MainCont.jsx",
+		"/Users/ziv/Documents/SWCloud/pub/src/base/styles/rewrite/base.scss",
+		"/Users/ziv/Documents/SWCloud/pub/src/base/styles/c2mfontscm/iconfont.css",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements/comps/RequirementsPlanComp.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements/stores/RequirementsConfrimStore.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements/stores/RequirementsPlanStore.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/base/styles/base.scss",
+		"/Users/ziv/Documents/SWCloud/pub/src/base/styles/themes/default.scss",
+		"/Users/ziv/Documents/SWCloud/pub/src/main/MainEntry.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/base/styles/iconfont-scm.scss",
+		"/Users/ziv/Documents/SWCloud/pub/src/manage/Announce/components/global/supports/resources/customiconfont.less",
+		"/Users/ziv/Documents/SWCloud/pub/webpack.config.js",
+		"/Users/ziv/Downloads/font_714517_0gd0zsnql1vk/iconfont.css",
+		"/Users/ziv/Downloads/font_148784_y7rvx0pkve2buik9/iconfont.css",
+		"/Users/ziv/Downloads/font_714517_ubbjvd4vl5m/iconfont.css",
+		"/Users/ziv/Downloads/font_714517_9ofnu8r2ja8/iconfont.css",
+		"/Users/ziv/Downloads/font_717623_00wv6nwneu4h/iconfont.css",
+		"/Users/ziv/Downloads/font_717623_ts8bh1bt3ui/iconfont.css",
+		"/Users/ziv/Documents/SWCloud/pub/src/base/styles/iconfont.scss",
+		"/Users/ziv/Downloads/font_717623_uqzs37iiqf/iconfont.css",
+		"/Users/ziv/Downloads/font_714517_q35ku7hhfti/iconfont.css",
+		"/Users/ziv/Documents/SWCloud/pub/src/main/reducers/MainContRedu.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/main/actions/MainContAct.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/setting/components/StaffReadComp.jsx",
+		"/Users/ziv/Documents/SWCloud/pub/src/setting/components/StaffUnreadComp.jsx",
+		"/Users/ziv/Documents/SWCloud/pub/src/setting/containers/StaffRemindCont.jsx",
+		"/Users/ziv/Documents/SWCloud/pub/src/loading/store/LoadingStore.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/loading/components/LoadingComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/consts/UrlsConfig.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/purchaseOrder/PurchaseOrderCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/main/components/PersonComp.jsx",
+		"/Users/ziv/Documents/SWCloud/pub/src/main/styles/position.scss",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/SaleModule/SaleOrder/SaleOrderDetail/SaleDetailCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/ProductionPlan/ProductionPlanCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/ProductionPlan/FuncProductionPlan/ProductionPlanDetail.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/SaleDelivery/comps/SaleDeliveryNoticeViewComp.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/SaleModule/SaleOrderDetailCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/main/reducers/TabsRedu.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/main/actions/AddressAct.js",
+		"/Users/ziv/Downloads/font_717623_dlt2hzih71v/iconfont.css",
+		"/Users/ziv/Downloads/c2mfontscm/iconfont.css",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/ProductionPlan/GeneralTable/index.js",
+		"/Users/ziv/Documents/SWCloud/pub/src/manage/Announce/components/global/supports/resources/default/iconfont.css",
+		"/Users/ziv/Downloads/c2m-iconfont.eot",
+		"/Users/ziv/Downloads/font_714517_9cp583azbzo/iconfont.css",
+		"/Users/ziv/Downloads/font_714517_zw1l3wlj0gk/iconfont.css",
+		"/Users/ziv/Downloads/font_714517_y5araiwfko/iconfont.css",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/styles/iconfont-scm.scss",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/styles/iconfont.scss",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements/comps/RequirementsDetailComp.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/consts/Enum.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/stores/TableStore.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/components/_SearchComp.jsx",
+		"/Users/ziv/Documents/Mainiway/ascp-web-V1.0.0/src/components/CommonTable/Table.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements/stores/RequirementsListStore.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements/comps/RequirementsListComp.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/reducers/MaterialModule/AddMaterialClassifyRedu.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/actions/MaterialModule/AddMaterialClassifyAct.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/components/MaterialModule/EditMaterialClassifyComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/dialogconts/MaterialModule/AddMaterialClassifyCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/mobxComps/MeasureComp.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/styles/materialDetailComp.scss",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/styles/materialAddComp.scss",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements/comps/ToolComp.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/services/InitData.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/consts/_urls.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/RenterModule/SupplierCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/components/RenterModule/SupplierListComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/components/RenterModule/AddSupplierComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/dialogconts/RenterModule/AddSupplierCont.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements/stores/RequirementsDetailStore.js",
+		"/Users/ziv/Documents/SWCloud/scm/src/base/components/FormComp.jsx",
+		"/Users/ziv/Documents/SWCloud/scm/src/scm/components/InventoryModule/InventoryAdjustmentAddComp.jsx"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/Users/ziv/Documents/SWCloud/pub/src",
+			"/Users/ziv/Documents/SWCloud/pub/src/base/consts",
+			"/Users/ziv/Documents/SWCloud/pub/src",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/pub/src/main",
+			"/Users/ziv/Documents/Mainiway/ascp-web-V1.0.0/src",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/Material",
+			"/Users/ziv/Documents/SWCloud/pub/src",
+			"/Users/ziv/Documents/SWCloud/pub",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/purchaseOrder",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/SaleModule",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/containers/SaleModule/SaleOrder/SaleOrderDetail",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/pub/src",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/Material",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/Material",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/QuoteList",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/components",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/pub/src",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm",
+			"/Users/ziv/Documents/SWCloud/pub/src",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm/src/base/styles",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm/export",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/InventoryCheck",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/Requirements",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/Outsourcing/zhichuan",
+			"/Users/ziv/Documents/Outsourcing/omojs",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/Material",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/Outsourcing/zhichuan",
+			"/Users/ziv/Documents/Outsourcing/omojs",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/components/RenterModule",
+			"/Users/ziv/Documents/SWCloud/scm/src/scm/components",
+			"/Users/ziv/Documents/SWCloud/scm/src",
+			"/Users/ziv/Documents/SWCloud/scm/src/base/components",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm/src",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm/src/base",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm/src",
+			"/Users/ziv/Documents/Outsourcing/omojs/views",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm/src",
+			"<open files>",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm/src",
+			"",
+			"<open folders>",
+			"<open files>",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm/src/scm/reducers",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm/src",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm/src/base/consts",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm/src",
+			"/Users/ziv/Documents/Mainiway/swcloud/scm",
+			"/Users/ziv/Documents/Mainiway/swcloud-c2mWeb/src",
+			"/Users/ziv/Documents/Mainiway/swcloud-c2mWeb/src/main",
+			"/Users/ziv/Documents/Mainiway/swcloud-c2mWeb",
+			"/Users/ziv/Documents/Mainiway/swcloud-c2mWeb/src",
+			"/Users/ziv/Documents/Outsourcing/zhichuan",
+			"/Users/ziv/Documents/Mainiway/swcloud-c2mWeb",
+			"/Users/ziv/Documents/Mainiway/swcloud-c2mWeb/src",
+			"/Users/ziv/Documents/Outsourcing/zhichuan",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web/public",
+			"/Users/ziv/Documents/Mainiway/Working-Time/src/main/resources/static",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web/public",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web",
+			"/Users/ziv/Documents/Temp",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web/public/script",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web/public",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web/server",
+			"/Users/ziv/Documents/WeApp/HeyNPC/client",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web/public",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web/server",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web/public",
+			"/Users/ziv/Documents/Mainiway/Working-Time/src/main/resources/static",
+			"/Users/ziv/Documents/Mainiway/com-working-time-web",
+			"/Users/ziv/Documents/WeApp/HeyNPC/client",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server",
+			"/Users/ziv/Documents/WeApp/HeyNPC/client",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server/routes",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server/controllers",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server",
+			"/Users/ziv/Documents/WeApp/HeyNPC/client",
+			"/Users/ziv/Documents/Mainiway/Working-Time/src/main/resources/static",
+			"/Users/ziv/Documents/Mainiway/man-hour",
+			"/Users/ziv/Documents/Mainiway/man-hour/views",
+			"/Users/ziv/Documents/Mainiway/man-hour/routes",
+			"/Users/ziv/Documents/Mainiway/man-hour/public",
+			"/Users/ziv/Documents/Mainiway/man-hour/models",
+			"/Users/ziv/Documents/Mainiway/man-hour/middlewares",
+			"/Users/ziv/Documents/Mainiway/man-hour/controllers",
+			"/Users/ziv/Documents/Mainiway/man-hour",
+			"/Users/ziv/Documents/Mainiway/man-hour/client",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server/tools",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server/routes",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server/middlewares",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server/controllers",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server",
+			"/Users/ziv/Documents/Mainiway/Working-Time",
+			"/Users/ziv/Documents/WeApp/HeyNPC/server",
+			"/Users/ziv/Documents/WeApp/HeyNPC/client",
+			"/Users/ziv/Documents/Mainiway/com-mainiway-web",
+			"/Users/ziv/Documents/Mainiway/ascp-web-V1.0.0/src",
+			"/Users/ziv/Documents/Mainiway/ascp-web-V1.0.0",
+			"/Users/ziv/Documents/Mainiway/com-mainiway-web",
+			"/Users/ziv/Documents/Mainiway/com-mainiway-web/public",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			">=",
+			"lenght",
+			"purchaseDetailList",
+			"addPurchaseDetailList",
+			"handleSaleList",
+			"AddPurchaseOrderStore.handleSaleList",
+			"handleSaleList",
+			"renderSaleList",
+			"renderAddSaleList",
+			"c2m-shanchu4",
+			"AddPurchaseCont",
+			"renderAddSaleList",
+			"AddPurchaseOrderStore.addPurchaseDetailList",
+			"renderAddSaleList",
+			"renderSaleList",
+			"商品",
+			"addPurchase",
+			"goodsSPrice",
+			"商品金额",
+			"freightPrice",
+			"单价小数点后保留两位，小数点前只允许输入12位",
+			"}else",
+			"请输入单价",
+			"商品金额",
+			"RightCompCust",
+			"validator",
+			"运费小数点后保留两位",
+			"${¥}",
+			"render: () => {}",
+			"*",
+			"person-news-list",
+			", 10",
+			"距离报价截止时间剩余",
+			"endTimeFormat",
+			"null",
+			"&&",
+			"?",
+			"${",
+			"picUrl",
+			"null",
+			"||",
+			", ",
+			"handleOverdue()",
+			"handleOverdue",
+			"return ",
+			"endTimeFormat",
+			"库存",
+			"quoteEndTimeFormat",
+			"距离报价截止时间剩余天H小时",
+			"m",
+			"supplierDesignType",
+			"quoteProductNum",
+			"total",
+			"quoteProductNum",
+			"prefixEcf",
+			"purchaseProduct/listByStatus",
+			"ecf/purchaseProduct",
+			"230*130",
+			"公司",
+			"上",
+			"130",
+			"200",
+			"moment",
+			"EnquiryListStore",
+			"enquiryListStore",
+			"/sm/ecf/postPurchaseQuote.html?rePurchaseBillId",
+			"return handleOverdue()",
+			"isOverdue",
+			"disabled",
+			"moment",
+			"return !!isOverdue",
+			"handleOverdue",
+			"return !!isOverdue",
+			"isOverdue",
+			"case",
+			"disabled: isView ? true : false,",
+			"handleBtn",
+			"isOverdue",
+			"距离报价截止时间剩余DD天mm小时",
+			"handleBtn",
+			"if (isEdit) {",
+			"materialTypeStore",
+			"fetchMaterialDefaultMeasure",
+			"measurestoreBase",
+			"GET_LISTOFDIMENSIONALITY",
+			"getListOfDimensionality",
+			"materialType",
+			"4392944699c3ec386bd44d725bac49b2",
+			"console",
+			"quoteInfoList",
+			"dataSource",
+			"quoteBillId",
+			"iconUrl",
+			"getCombBoxList",
+			"materialcategory/getComboBoxList",
+			"materialcategory",
+			"getComboBoxList",
+			"MaterialFetch",
+			"getComboBoxList",
+			"materialcategory/getComboBoxList",
+			"fetchSelectList",
+			"materialDetailDWListStore",
+			"fetchMaterialDefaultMeasure",
+			",",
+			"{\n                                                        getFieldDecorator",
+			"getFieldDecorator",
+			"{\n                                            getFieldDecorator",
+			"getFieldDecorator",
+			"{\n                                                            getFieldDecorator",
+			"required",
+			"请输入运费",
+			"freightPrice",
+			"calcSum",
+			"changeItem",
+			"运费",
+			"required",
+			"freightPrice",
+			"handleSubmit",
+			"submit",
+			"validator",
+			"请输入运费",
+			"运费",
+			"prefixEc}",
+			"prefixEc",
+			"prefixEc}",
+			"ec/",
+			"prefixEcf",
+			"ec/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"requirementsPlanStore",
+			"RequirementsPlanStore",
+			"'../../../base",
+			"more-btn__en-GB.png",
+			"ctx.request.path",
+			"ctx.request.url.replace(/\\//g, '{@}/').split('{@}').slice(1)[0]",
+			"pathname: ctx.request.url.replace(/\\//g, '{@}/').split('{@}').slice(1),",
+			"ctx.request.url.replace('/', '/{@}').split('{@}')[0]",
+			"ctx.request.url.substr(1).split('/')[0],",
+			"'/images",
+			"bind"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/ziv/Documents/SWCloud/scm"
+		},
+		{
+			"path": "/Users/ziv/Documents/SWCloud/pub"
+		},
+		{
+			"path": "/Users/ziv/Documents/SWCloud/ecf"
+		},
+		{
+			"path": "/Users/ziv/Documents/WeApp/HeyNPC"
+		},
+		{
+			"path": "/Users/ziv/Documents/Outsourcing"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/ziv/Documents/SWCloud/scm/mynode.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1736,
+								1736
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 583.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/ziv/Documents/SWCloud/scm/src/scm/containers/TabsCont.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17575,
+								17575
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/purchaseOrder/AddPurchaseOrder/AddPurchaseOrderCont.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								79
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/ziv/Documents/SWCloud/scm/src/scm/containers/OrderModule/purchaseOrder/AddPurchaseOrder/AddPurchaseOrderStore.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8230,
+								8230
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3829.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 121.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".sass",
+				"scm/src/scm/Requirements/style.sass"
+			],
+			[
+				".less",
+				"scm/src/scm/EnquiryList/style.less"
+			],
+			[
+				"CraftComp.jsx",
+				"scm/src/scm/containers/OrderModule/BasicData/Craft/CraftComp.jsx"
+			],
+			[
+				"AdCraftComp",
+				"scm/src/scm/containers/OrderModule/BasicData/Craft/AddCraftComp.jsx"
+			],
+			[
+				"frontlistnewscenter",
+				"com-mainiway-web/export/html/frontListNewsCenter.html"
+			],
+			[
+				"launchscreen.xib",
+				"demo/ios/demo/Base.lproj/LaunchScreen.xib"
+			],
+			[
+				"",
+				"demo/App.js"
+			],
+			[
+				".roadhogrc.mock.js",
+				"ascp-web-V1.0.0/.roadhogrc.mock.js"
+			],
+			[
+				"launchscreen",
+				"demo/ios/demo/Base.lproj/LaunchScreen.xib"
+			],
+			[
+				"editpanel.js",
+				"ascp-web-V1.0.0/src/routes/ArgumentSetting/EditPanel.js"
+			],
+			[
+				"evidencelist",
+				"HeyNPC/server/controllers/evidenceList.js"
+			],
+			[
+				"editpanel",
+				"ascp-web-V1.0.0/src/components/CommonTable/EditPanel.js"
+			],
+			[
+				"formitemeditor.js",
+				"src/utils/formItemEditor.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/RYZX/iwinfax_shop/src/pages/CommodityEdit/index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"### Bug Fixes\n\n* **loader:** handle case when rule test is a function ([ace9f47](https:"
+			],
+			[
+				"EditPanel",
+				"EditPanel"
+			]
+		],
+		"width": 962.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

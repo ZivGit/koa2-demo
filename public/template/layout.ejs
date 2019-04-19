@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="<%= lang %>">
+<head>
+    <meta charset="UTF-8">
+    <title><%- head.title %></title>
+    <% head.style.forEach(item => { %>
+        <link href="<%= item %>" rel="stylesheet">
+    <% }) %>
+    <script>
+        var lang = '<%= lang %>'
+    </script>
+</head>
+<body>
+    <div class="page-container">
+        <header class="page-header" flex="main:justify cross:stretch">
+            <div class="page-header__left" flex="dir:left cross:stretch" flex-box="1">
+                <a class="page-header-link" href="<%= header.left.link %>" flex="cross:center">
+                    <i class="page-header-icon <%= header.left.icon %>"></i>
+                    <span><%= header.left.label %></span>
+                </a>
+            </div>
+            <div class="page-header__center" flex="main:center cross:center" flex-box="0">
+                <h1><%= header.title %></h1>
+            </div>
+            <div class="page-header__right" flex="dir:right cross:stretch" flex-box="1">
+                <span class="page-header-link" flex="cross:center">
+                    <i class="page-header-icon <%= header.right.icon %>"></i>
+                    <span><%= header.right.label %></span>
+                </span>
+            </div>
+        </header>
+
+        <nav class="page-menu" id="page-menu">
+            <ul class="page-menu-order">
+                <% menu.forEach((item, index) => { %>
+                    <li>
+                        <a class="page-menu-order-item l<%= index %> <%= pathname === item.path ? 'on' : '' %>" href="<%= item.path %>" flex="main:justify cross:center">
+                            <i class="icon"></i>
+                            <span flex-box="1"><%= item.label %></span>
+                        </a>
+                    </li>
+                <% }) %>
+            </ul>
+            <ul class="page-menu-lang">
+                <li class="zh-CN<%= lang === 'zh-CN' ? ' on' : null %>" onclick="handleChangeLang(0, 'zh-CN')"></li>
+                <li class="zh-TW<%= lang === 'zh-TW' ? ' on' : null %>" onclick="handleChangeLang(1, 'zh-TW')"></li>
+                <li class="en-GB<%= lang === 'en-GB' ? ' on' : null %>" onclick="handleChangeLang(2, 'en-GB')"></li>
+            </ul>
+        </nav>
+
+        <div class="page-main">
+            <%- body %>
+        </div>
+    </div>
+
+    <!--JAVASCRIPT-->
+    <% head.javascript.forEach(item => { %>
+        <script type="text/javascript" src="<%= item %>"></script>
+    <% }) %>
+</body>
+</html>

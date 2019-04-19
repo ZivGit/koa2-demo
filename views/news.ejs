@@ -1,0 +1,32 @@
+<span class="page-news">
+    <section class="tabs" id="js_tab">
+        <div class="tabNav" flex="main:center">
+            <% news.forEach((item, index) => { %>
+                <div class="tabNav-item<%= index ? null : ' on' %>"><%= item.title %></div>
+            <% }) %>
+        </div>
+        <div class="tabBox">
+            <% news.forEach((item, index) => { %>
+                <div class="tabBox-item<%= index ? null : ' on' %>">
+                    <ul class="news-list">
+                        <% item.list.forEach(b => { %>
+                            <% if (b.link !== undefined) { %>
+                                <li><a href="<%= b.link %>">
+                                    <p class="news-list-title"><%= b.title %></p>
+                                    <p class="news-list-date"><%= b.date %></p>
+                                    <p class="news-list-text"><%= b.text %></p>
+                                </a></li>
+                            <% } else { %>
+                                <li>
+                                    <p class="news-list-title"><%= b.title %></p>
+                                    <p class="news-list-date"><%= b.date %></p>
+                                    <p class="news-list-text"><%= b.text %></p>
+                                </li>
+                            <% } %>
+                        <% }) %>
+                    </ul>
+                </div>
+            <% }) %>
+        </div>
+    </section>
+</span>

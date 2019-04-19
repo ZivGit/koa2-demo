@@ -1,0 +1,28 @@
+<div class="page-about">
+    <div class="img-1"><img src="<%= about.text1 %>" alt="" style="width:100%;"></div>
+    <div class="img-2" onclick="handleIntrShow(0)"><img src="<%= about.img[0] %>" alt="" style="width:100%;"></div>
+    <div class="img-3"><img src="/images/about/img-3.png" alt="" style="width:100%;"></div>
+    <div class="img-4">
+        <img src="<%= about.img[1] %>" alt="" style="width:100%;">
+        <a href="javascript:;" class="link l1" onclick="handleIntrShow(1)"></a>
+        <a href="javascript:;" class="link l2" onclick="handleIntrShow(2)"></a>
+        <a href="javascript:;" class="link l3" onclick="handleIntrShow(3)"></a>
+        <a href="javascript:;" class="link l4" onclick="handleIntrShow(4)"></a>
+    </div>
+    <div class="img-5">
+        <img src="<%= about.img[2] %>" alt="" style="width:100%;">
+        <a href="javascript:;" class="link l5" onclick="handleIntrShow(5)"></a>
+        <a href="javascript:;" class="link l6" onclick="handleIntrShow(6)"></a>
+        <a href="javascript:;" class="link l7" onclick="handleIntrShow(7)"></a>
+    </div>
+    <div class="text-1"><%= about.text2 %></div>
+
+    <div class="intr" id="about-intr">
+        <% about.intr.forEach((item, index) => { %>
+            <div class="intr-item intr-<%= index %> animated fadeIn">
+                <i class="intr-item-angle"><img src="/icons/angle_top.png" alt=""></i>
+                <%- item %>
+            </div>
+        <% }) %>
+    </div>
+</div>
