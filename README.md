@@ -5,7 +5,7 @@ Koa 依赖 node v7.6.0 或 ES2015及更高版本和 async 方法支持.
 你可以使用自己喜欢的版本管理器快速安装支持的 node 版本：
 
 ```
-$ nvm install 7
+$ nvm install 7 or brew install node@7
 ```
 
 ## 使用 Babel 实现 Async 方法
